@@ -1,4 +1,4 @@
 # hello-world
 This is my hello world project
 
-I've just started how to work with GitHub 
+I've just started working with GitHub 
